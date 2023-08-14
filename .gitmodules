@@ -1,0 +1,12 @@
+[submodule "themes/hugo-theme-texify"]
+	path = themes/hugo-theme-texify
+	url = https://github.com/queensferryme/hugo-theme-texify.git
+[submodule "ollycloud/themes/hugo-theme-texify"]
+	path = ollycloud/themes/hugo-theme-texify
+	url = https://github.com/queensferryme/hugo-theme-texify.git
+[submodule "ollycloud/themes/hugo-texify2"]
+	path = ollycloud/themes/hugo-texify2
+	url = https://github.com/weastur/hugo-texify2.git
+[submodule "straycycling/themes/sk1"]
+	path = straycycling/themes/sk1
+	url = https://github.com/J-Siu/hugo-theme-sk1

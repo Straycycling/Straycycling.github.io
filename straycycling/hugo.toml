@@ -1,0 +1,8 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'sk1'
+
+[Params]
+mainSections = "post"
+subtitle = "A Hugo Theme"
